@@ -1,0 +1,1 @@
+pip install streamlit python-docx pandas altair matplotlib python-pptx reportlab
