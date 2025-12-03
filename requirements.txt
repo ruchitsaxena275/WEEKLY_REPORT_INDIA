@@ -1,1 +1,7 @@
-pip install streamlit python-docx pandas altair matplotlib python-pptx reportlab
+streamlit==1.28.0
+pandas==2.1.1
+altair==5.1.0
+matplotlib==3.8.1
+python-docx==0.8.11
+python-pptx==0.6.21
+fpdf==1.7.2
